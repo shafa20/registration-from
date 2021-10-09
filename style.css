@@ -1,0 +1,21 @@
+body{
+    background-color: White
+      ;
+  }
+  
+  h1{
+    color:purple;
+    text-align:center;
+  }
+  .bordered{
+    border: 2px dashed black ;
+    border-width: 5px ;
+    
+  }
+  table{
+    background-color: "";
+    background-image: linear-gradient(to bottom,rgb(105, 202, 226),pink);
+  }
+  ul.a {
+      list-style-type: square;
+    }
